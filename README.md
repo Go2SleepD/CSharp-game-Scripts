@@ -1,6 +1,8 @@
 # Planets-game
 For own scripts, which already in-game use.
 
+In this game you should protect planets from collision of each over by drag them away.
+
 Here is list of all scripts, which used in game:
 1) DragAndDrop
 2) Menu
