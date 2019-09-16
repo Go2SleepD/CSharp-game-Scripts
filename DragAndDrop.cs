@@ -1,14 +1,12 @@
-﻿using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
-using UnityEngine.SceneManagement;
+using UnityEngine.SceneManagement;      //For scene loading
 
 public class DragAndDrop : MonoBehaviour
 {
     bool MoveAllowed;
     Collider2D col;
 
-    public GameObject selectionEffect;
+    public GameObject selectionEffect;      
     public GameObject deathEffect;
 
     private Menu m;
